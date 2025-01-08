@@ -24,10 +24,10 @@
 
    <p align="center">
   <a href="https://github.com/naveedbro/KING-MDV1/fork">
-    <img src="https://img.shields.io/github/forks/naveeddogar/KING-MD?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/naveedbro/KING-MD?label=Fork&style=social">
    
   <a href="https://github.com/naveedbro/KING-MDV1/stargazers">
-    <img src="https://img.shields.io/github/stars/naveeddogar/KING-MD?style=social">
+    <img src="https://img.shields.io/github/stars/naveedbro/KING-MD?style=social">
       
 
  <p align="center">
