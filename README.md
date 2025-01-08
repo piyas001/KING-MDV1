@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/naveeddogar"><img title="Author" src="https://img.shields.io/badge/KING_MD-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/naveedbro"><img title="Author" src="https://img.shields.io/badge/KING_MD-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 
@@ -23,24 +23,24 @@
 
 
    <p align="center">
-  <a href="https://github.com/naveeddogar/KING-MD/fork">
+  <a href="https://github.com/naveedbro/KING-MDV1/fork">
     <img src="https://img.shields.io/github/forks/naveeddogar/KING-MD?label=Fork&style=social">
    
-  <a href="https://github.com/naveeddogar/KING-MD/stargazers">
+  <a href="https://github.com/naveedbro/KING-MDV1/stargazers">
     <img src="https://img.shields.io/github/stars/naveeddogar/KING-MD?style=social">
       
 
  <p align="center">
-  <a href="https://github.com/naveeddogar">
-    <img src="https://img.shields.io/badge/OWNER-naveeddogar-black?style=social&logo=github&label=Owner">
+  <a href="https://github.com/naveedbro">
+    <img src="https://img.shields.io/badge/OWNER-naveedbro-black?style=social&logo=github&label=Owner">
    
-  <a href="https://github.com/naveeddogar/KING-MD/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/naveeddogar/KING-MD?style=social">
+  <a href="https://github.com/naveedbro/KING-MDV1/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/naveedbro/KING-MDV1?style=social">
    
  
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{naveeddogar}/count.svg" alt="naveeddogar :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{naveedbro}/count.svg" alt="naveedbro :: Visitor's Count" /></p>
 <p align="center">
  <a href="https://whatsapp.com/channel/0029Va66s2IJENxvTJjUtM1w" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -54,13 +54,13 @@
 # DEPLOY SETUP
 
 
-## 1 *`⨷ FORK THIS REPO`*
-<a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=graphql&logoColor=white'/></a>
+## 1 *`FORK THIS REPO`*
+<a href='https://github.com/naveedbro/KING-MDV1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=graphql&logoColor=white'/></a>
 
-## 2 *`⨷ SCAN OR PAIR QR`*
-<a href='https://king-md-qr-genrator.vercel.app/' target="_blank"><img alt='scan repo' src='https://img.shields.io/badge/Get Session Id-black?style=for-the-badge&logo=flutter&logoColor=white'/></a>
+## 2 *`SCAN OR PAIR QR`*
+<a href='https://king-md-session.onrender.com/' target="_blank"><img alt='scan qr' src='https://img.shields.io/badge/Get Session Id-black?style=for-the-badge&logo=flutter&logoColor=white'/></a>
 
-## 3 *`⨷ NOW DEPLOY`*
+## 3 *`NOW DEPLOY`*
 
 #### DEPLOY TO HEROKU 
 
@@ -120,7 +120,7 @@
 
 1. If You don't have a account in Replit. Create a account.
     <br>
-<a href='https://replit.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<a href='https://replit.com/' target="_blank"><img alt='Heroku' src='https://img.shieldsio/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 2. Now Deploy
     <br>
@@ -128,79 +128,6 @@
 
 ---
 
-
- <details close>
-<summary>𝙉𝙀𝙒 𝙐𝙋𝘿𝘼𝙏𝙀 & 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎 </summary>
-
-- ***King-Md v1.2.9 Fixing***
-- *Fixed `All Ai` Commands*
-- *Fixed `Spotify` Command*
-- *Fixed `All Anime` Commands*
-- *Fixed `Insta,Fb,Tiktok` Commands*
-- *Fixed All Not Working Commands, Due To Api*
-- *Added My Own Api In Bot https://api.maher-zubair.tech*
-- ***King-Md v1.2.9 Released***
-- *Added `Pair Code` For Session ID*
-- *Added New `Session ID` For Bot*
-- *Added New `Qr`*
-- *Added Massive Anime*
-- *Added 11 AI*
-- *Added 18 GFX*
-- *Added Twitter Templates On Celebreties*
-- *Added `Afk` Cmd*
-- *Added `Teddy` Cmd*
-- *Fixed `Insta` Cmd*
-- *Fixed `Tiktok` Cmd*
-- *Fixed `Facebook` Cmd*
-- *Changed `Apk` Cmd Style*
-- *Changed `Hack` Cmd Style*
-- *Changed `Uptime` Cmd Style*
-- *Added Some New `Logos` Cmds*
-- *Added `Steal` Cmd For Sticker*
-- *Added `Islamic` Cmd Wallpaper*
-- *Added `Nasa` Cmd To Get Nasa News*
-- *Added `Tech` Cmd To Get Tech News*
-- *Fixed `Bgm` Cmd Added on/off Case*
-- *Fixed `Welcome` Cmd Added Off Case*
-- *Fixed `Goodbye` Cmd Added Off Case*
-- *Added `Mode` Cmd To Change Bot Mode*
-- *Renamed `plugins` Cmd To `Allplugins`*
-- *Added `Theme` Cmd To Change Bot Theme*
-- *Added `Ip` Cmd For Ip Address Stalking*
-- *Added `pp` Cmd To Change/Remove Your Dp*
-- *Added `Sticky` Cmd To Download Stickers*
-- *Fixed `Antibot` Cmd Added Delete Option*
-- *Fixed `Antilink` Cmd Added Delete Option*
-- *Fixed `Cpu` Cmd To Get Your Server Info*
-- *Added `Poetry` Cmd For Urdu/Hindi Poetry*
-- *Added `Gc` Cmd To Get Group Full Details*
-- *Added `Github` Cmd To Stalk Github Users*
-- *Added `Setprefix` Cmd To Change Bot Prefix*
-- *Added `Category` Cmd To Get All Categories*
-- *Moved `Media` Category To External PLugins*
-- *Added `Antiwords` Cmd To Prevent Bad Words*
-- *Added `#` Cmd To Download Someone's Status*
-- *Added `Calc` Cmd For Simple MAth Operations*
-- *Added `Lyrics` Cmd To Get Lyrics Of Any Song*
-- *Added `typing` Cmd To Turn On/Off Auto-Typing*
-- *Fixed `Help` Cmd To Get Details About Any Cmd*
-- *Added `Spotify` Cmd To Download Spotify Songs*
-- *Added `Online` Cmd To Turn On/Off Always-Online*
-- *Added `Tempmail` Cmd To Generate Mails/Get Info*
-- *Added `Plugin` Cmd To Get All External Plugins*
-- *Added `Npm1` Cmd To Get Info About Npm Packages*
-- *Added `Reaction` Cmd To Turn On/Off Auto-Reaction*
-- *Added `Read` Cmd To Turn On/Off Auto-Read Messages*
-- *Added `Stssaver` Cmd To Auto-Download Your Statuses*
-- *Added `Stsview` Cmd To Turn On/Off Auto-Status View*
-- *Added `Recording` Cmd To Turn On/Off Auto-Recording*
-- *Added `Insult` Cmd To Insult Someone By Mention/Reply*
-- *Added `Wamod` Cmd To Download Official Moded Whatsapps*
-- *Added `Levelup` Cmd To Turn On/Off Auto Levelup-Message*
-- *Added `Flirt` Cmd To Flirt With Someone By Mention/Reply*
-- *Added `Lines` Cmd To Throw Lines At Someone By Mention/Reply*
-
-</details>
 
 
 
@@ -214,15 +141,13 @@
 ### `🧡 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
 - ***Suhail***
 - ***SamPandy***
-- ***Zubair***
-- ***For Helping Me***
-- ***For Using This Bot***
-- ***Support Me By Subscribe On Yt [Yt Channel](https://buymeacoffee.com/Maher_Zubair)***
+- ***Usman***
+- ***Thanks To All User For Using This Bot***
+- ***Support Me By Subscribe On Yt [Yt Channel](https://tinyurl.com/Technical-Naveed-Official)***
 
 ## ```📜 𝘋𝘪𝘴𝘤𝘭𝘢𝘪𝘮𝘦𝘳```
 
 - ***I will only Assist You in Bot Deployment and Hosting, Not in Bot Modifying.***
-- ***This Bot [KING-MD](https://github.com/naveeddogar/KING-MD) Has Been Made Under The [Apache-2.0 license](https://github.com/naveeddogar/KING-MD/blob/main/LICENSE).***
+- ***This Bot [KING-MD](https://github.com/naveedbro/KING-MDV1) Has Been Made Under The [Apache-2.0 license](https://github.com/naveedbro/KING-MDV1/blob/main/LICENSE).***
 - ***So No Copy This Bot, Or Re-Uploading, Any Thing Not Allowed Without Permission***
-- ***If Someone Modify My Bot Or Try To Copy It I Will Instantly Give Legal Copy Right Strike And Ban That User Repo And Account***
 - ***This Bot Is Only For Fun and Helps***
