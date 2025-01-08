@@ -1,18 +1,16 @@
 
 /**
 ========================================================
-      █▀ █▀▀ █▀▀ ▀█▀ █▀█ █▀█ ▄▄ ▀█ ░ █▀█           |•|
-      ▄█ ██▄ █▄▄ ░█░ █▄█ █▀▄ ░░ █▄ ▄ █▄█           |•|
 ========================================================
 
  Copyright (C) 2022.                                     
  Licensed under the  GPL-3.0 License;                    
  You may not use this file except in compliance with the License.  
  It is supplied in the hope that it may be useful                           
- * @project_name : Secktor-2.0                                             
- * @author : Slasher-Official <https://github.com/X-S-L-A-S-H-E-R
- * @description : Secktor-2.0 ,A Multi-functional whatsapp bot.   
- * @version 2.0.1                                                                               
+ * @project_name : king md                                            
+ * @author : naveedbro <https://github.com/naveedbro
+ * @description : king md ,A Multi-functional whatsapp bot.   
+ * @version 1.3.0                                                                               
  ========================================================
  **/
 
@@ -71,7 +69,7 @@ Secktor.cmd({
 ┃✦┃ 𝘿𝙖𝙩𝙚: ${date}
 ┃✦┃ 𝙈𝙤𝙙𝙚: ${Config.WORKTYPE}
 ┃✦┃ 𝙋𝙡𝙖𝙩𝙚𝙛𝙤𝙧𝙢: King•Linux
-┃✦┃ 𝙑𝙚𝙧𝙨𝙞𝙤𝙣: 1.2.9
+┃✦┃ 𝙑𝙚𝙧𝙨𝙞𝙤𝙣: 1.3.0
 ┃✦┃ 
 ┃✦┃ ✦ ▍▌▌▉▏▎▌▉▐▏▌✦
 ┃✦┃ ✦ ▍▌▌▉▏▎▌▉▐▏▌✦
