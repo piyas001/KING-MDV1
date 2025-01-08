@@ -37,7 +37,7 @@
     },
    "ANTILINK_VALUES": {
     "description": "Put words for antilink",
-     "value": "chat.whatsapp.com",
+     "value": "https://chat.whatsapp.com",
      "required" :false
      },
    "FAKE_COUNTRY_CODE": {
